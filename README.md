@@ -13,7 +13,7 @@ rm -rf ~/.cocoapods/repos
 pod repo add DCSpecs https://gitee.com/captain9911/DCSpecs.git
 ```
 
-以后更新本地索引时，就会直接从镜像拉取，速度飞快。
+以后更新本地索引等操作时，就会直接使用镜像，速度飞快。
 
 ```
 pod repo update
