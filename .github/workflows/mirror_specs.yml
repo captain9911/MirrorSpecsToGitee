@@ -25,3 +25,4 @@ jobs:
           dst_token: ${{ secrets.GITEE_TOKEN }}
           static_list: "Specs"
           mappings: "Specs=>DCSpecs"
+          force_update: true
