@@ -2,7 +2,7 @@ name: Mirror Specs
 # on: [push]
 on:
   schedule:
-    - cron: '22 * * * *'
+    - cron: '22 3 * * *'
 jobs:
   sync-specs:
     runs-on: ubuntu-latest
