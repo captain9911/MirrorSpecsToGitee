@@ -1,10 +1,10 @@
-# 关于
+# 关于 
 
 这个 Action 会每周自动将 <a href="https://github.com/CocoaPods/Specs">CocoaPods/Specs</a> 仓库镜像至 Gitee。
 
 镜像地址：https://gitee.com/captain9911/DCSpecs.git
 
-# 使用
+# 使用 
 
 将CocoaPods索引更换成镜像：
 
